@@ -1,0 +1,10 @@
+TODO LIST:
+------------
+1. Replace the fake product list with the product list coming from https://dummyjson.com/products
+    1.1 Add a thumbnail image to the card of each product
+2. Add a product details page to show details of a single product
+3. Handle API errors
+    3.1 Log HTTP calls
+
+BONUS POINT: Try to attach the API https://dummyjson.com/auth/login to the login form 
+(see https://dummyjson.com/users for authorized users)

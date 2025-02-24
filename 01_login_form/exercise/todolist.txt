@@ -1,0 +1,7 @@
+TODO LIST:
+------------
+1. Replace this code by using a login form
+2. Handle validation for email and password fields
+3. Show a snackbar with a message if the login button is clicked
+
+BONUS POINT: Try to give a personal style to login form

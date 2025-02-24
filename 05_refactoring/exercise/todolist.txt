@@ -1,0 +1,4 @@
+TODO LIST:
+------------
+1. Try to refactor the code by structuring it in packages
+2. Try to optimize API calls

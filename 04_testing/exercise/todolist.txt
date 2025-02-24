@@ -1,0 +1,5 @@
+TODO LIST:
+------------
+1. Generate tests for login screen
+2. Generate tests for product list
+3. Generate tests for product details

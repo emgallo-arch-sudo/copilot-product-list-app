@@ -1,0 +1,7 @@
+TODO LIST:
+------------
+1. Add a new product list screen with a welcome message
+2. Add a logout button
+3. Show a fake product list with description and price
+
+BONUS POINT: Try to refactor navigation using NavController
